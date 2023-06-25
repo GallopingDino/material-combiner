@@ -11,6 +11,7 @@ Find the manifest.json file in the Packages folder of your project and add the f
 
 ## Usage
 Select Window -> Material Combiner, drag model prefabs into `Prefabs` field, configure combiner settings and start optimisation. This might take a few minutes.
+
 ![](/Documentation~/images/Window.png)
 
 
