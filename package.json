@@ -1,0 +1,18 @@
+{
+    "name": "com.dino.material-combiner",
+    "version": "1.0.0",
+    "displayName": "Material Combiner",
+    "description": "An editor tool used to optimise meshes and materials for better draw call batching.",
+    "unity": "2019.4",
+    "documentationUrl": "https://github.com/GallopingDino/material-combiner",
+    "license": "MIT",
+    "keywords": [
+        "materials",
+        "optimisation"
+    ],
+    "author": {
+        "name": "Galloping Dino",
+        "email": "galloping.dino@gmail.com",
+        "url": "https://twitter.com/GallopingDino"
+    }
+}
